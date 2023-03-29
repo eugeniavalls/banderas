@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+body {
+  background-color: rgb(44, 43, 43);
+}
+h1 {
+  color: white;
+  margin-left: 500px;
+}
+.flags {
+  margin-top: 50px;
+  width: 1000px;
+  margin-left: 170px;
+}
+.flag {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  border: 2px solid white;
+  margin: 2px;
+}
+.flag-one {
+  /* background-image: url(assets/images/dorian.png);
+  background-color: beige;
+  background-repeat: no-repeat; */
+  /* en background-position primero va el valor horizontal y después el vertical; poniendo un solor valor se aplica a vertical y horizontal a la vez */
+  /* background-position: 50%; */
+  /* controla el tamaño de la imagen, contain rellena el contenedor sin perder información de la imagen; cover estira la imagen todo lo que pueda para rellenar toda la caja */
+  /* background-size: contain; */
+
+  /* dentro de los valores de colores, se puede especificar la dirección del degradado, se pueden añadir rotación de degradado "45deg", se pueden establecer paradas de color los valores intermedios necesitan principio y final "red 25%, blue 25% 75%, orange 75% */
+  background-image: linear-gradient(red 33%, blue 33% 66%, orange 66%);
+}
+
+.flag-two {
+  background-image: linear-gradient(
+    to right,
+    black 33%,
+    yellow 33% 66%,
+    red 66%
+  );
+}
+
+.flag-three {
+  background-image: linear-gradient(
+    rgb(136, 183, 216) 33%,
+    white 33% 38%,
+    black 38% 61%,
+    white 61% 66%,
+    rgb(136, 183, 216) 66%
+  );
+}
+
+.flag-four {
+  background-image: linear-gradient(to right, green 40%, transparent 25%),
+    linear-gradient(yellow 25% 50%, red 50% 75%);
+}
+
+.flag-five {
+  background-image: linear-gradient(-45deg, black 40%, yellow 40% 60%, red 60%);
+}
+
+.flag-six {
+  background-image: linear-gradient(
+      110deg,
+      rgb(36, 18, 136) 20%,
+      transparent 20%
+    ),
+    linear-gradient(135deg, rgb(255, 255, 0) 40%, transparent 40%),
+    linear-gradient(155deg, rgb(255, 0, 0) 60%, transparent 60%),
+    linear-gradient(170deg, rgb(255, 255, 255) 80%, transparent 80%),
+    linear-gradient(170deg, rgb(26, 110, 41) 100%, transparent 100%);
+}
