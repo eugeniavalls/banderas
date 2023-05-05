@@ -1,4 +1,4 @@
-# Título del proyecto
+# BANDERAS CON DEGRADADOS
 
 ![Imagen del proyecto](https://raw.githubusercontent.com/eugeniavalls/banderas/main/screenshots/banderas.png)
 
@@ -20,14 +20,13 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
 ## Autor ✒️
 
-**TU NOMBRE**
+**EUGENIA VALLS ALFARO**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
+- [Correo electrónico](e.vallsalfaro@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/eugenia-valls-alfaro-540b1a20a)
 - [Porfolio web](https://tu-dominio.com/)
 
 ## Instalación
