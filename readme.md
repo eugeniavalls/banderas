@@ -12,7 +12,7 @@ Realización de banderas mediante degradados lineales.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Mediante los degradados lineales se realizar una serie de seis banderas en total. En dicha práctica aplicamos la propiedad de los degradados jugando con los grados.
+Mediante los degradados lineales se realiza una serie de seis banderas en total. En dicha práctica aplicamos la propiedad de los degradados jugando con los grados.
 
 ## Tecnologías 🛠
 
